@@ -1,0 +1,14 @@
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/bin/Debug/net8.0/CleanCodeDemo
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/bin/Debug/net8.0/CleanCodeDemo.deps.json
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/bin/Debug/net8.0/CleanCodeDemo.runtimeconfig.json
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/bin/Debug/net8.0/CleanCodeDemo.dll
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/bin/Debug/net8.0/CleanCodeDemo.pdb
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/obj/Debug/net8.0/CleanCodeDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/obj/Debug/net8.0/CleanCodeDemo.AssemblyInfoInputs.cache
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/obj/Debug/net8.0/CleanCodeDemo.AssemblyInfo.cs
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/obj/Debug/net8.0/CleanCodeDemo.csproj.CoreCompileInputs.cache
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/obj/Debug/net8.0/CleanCodeDemo.dll
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/obj/Debug/net8.0/refint/CleanCodeDemo.dll
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/obj/Debug/net8.0/CleanCodeDemo.pdb
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/obj/Debug/net8.0/CleanCodeDemo.genruntimeconfig.cache
+/Users/berker/Projects/CleanCodeDemo/CleanCodeDemo/obj/Debug/net8.0/ref/CleanCodeDemo.dll
